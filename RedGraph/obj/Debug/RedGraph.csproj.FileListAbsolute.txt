@@ -1,0 +1,4 @@
+C:\Users\gusev\source\repos\RedGraph\RedGraph\obj\Debug\RedGraph.csproj.AssemblyReference.cache
+C:\Users\gusev\source\repos\RedGraph\RedGraph\obj\Debug\RedGraph.Properties.Resources.resources
+C:\Users\gusev\source\repos\RedGraph\RedGraph\obj\Debug\RedGraph.csproj.GenerateResource.cache
+C:\Users\gusev\source\repos\RedGraph\RedGraph\obj\Debug\RedGraph.csproj.CoreCompileInputs.cache
